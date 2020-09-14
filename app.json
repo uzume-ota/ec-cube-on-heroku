@@ -1,8 +1,8 @@
 {
-    "name": "EC-CUBE3",
+    "name": "UZUME-EC-CUBE3",
     "description": "EC-CUBE 3.0.16 on Heroku",
-    "website": "https://github.com/EC-CUBE/ec-cube",
-    "repository": "https://github.com/EC-CUBE/ec-cube",
+    "website": "https://github.com/uzume-ota/ec-cube-on-heroku",
+    "repository": "https://github.com/uzume-ota/ec-cube-on-heroku",
     "keywords": ["php", "ec", "e-commerce", "ec-cube"],
     "addons": [
         {
